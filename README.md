@@ -25,7 +25,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-    <img src="https://skillicons.dev/icons?i=r,python,airflow,kafka,docker,kubernetes,azure,gcp,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=r,python,apache airflow,kafka,docker,kubernetes,azure,gcp,mysql,flask" /><br>
 </div>
 
 <br/>
