@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sidenigma.sidenigma" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Siddhant+Sahoo!;" />
 </h1>
 
-<h3 align="center">Data & LLM enthusiast!</h3>
+<h3 align="center">Data & LLM Enthusiast!</h3>
 
  
 <div align="center"> 
@@ -19,17 +19,15 @@
   </a>
 </div>
 
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-    <img src="https://skillicons.dev/icons?i=r,python,apache airflow,kafka,docker,kubernetes,azure,gcp,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=r,python,kafka,docker,kubernetes,azure,aws,mysql,postgres" /><br>
 </div>
 
 <br/>
-<hr/>
 
 <!--<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
